@@ -18,7 +18,7 @@
 
   /* Custom Scrollbar */
 ::-webkit-scrollbar {
-  width: 7px; /* Adjust the width */
+  width: 8px; /* Adjust the width */
 }
 
 ::-webkit-scrollbar-track {
